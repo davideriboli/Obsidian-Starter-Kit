@@ -1,0 +1,14 @@
+{
+  "defaultViewMode": "preview",
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "it",
+    "it-IT"
+  ],
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Media"
+}
