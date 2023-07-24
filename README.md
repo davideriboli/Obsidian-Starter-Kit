@@ -1,5 +1,4 @@
 # Obsidian Starter Kit
-All the Obsidian Themes and Plugins I need, each time I create a new vault.
 
 [Obsidian](https://obsidian.md) has become an indispensable tool in many of my workflows, but every time I create a new vault I waste a lot of time downloading the additional plugins and themes I need and calibrating everything, so I decided to create this repository, hoping it will save me and anyone else interested some time.
 
